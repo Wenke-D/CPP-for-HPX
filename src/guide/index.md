@@ -6,8 +6,11 @@ We found that most problems HPX beginners have is because of they have problems 
 In this tutorial, we will talk about C++ techniques used in HPX including language features and libraries.
 
 ## Prerequisite
-INtro to C++ Basic programing know
-Call by reference
+- For readers that have a crouse introduction to (traditional) C++.
+
+- For readers that have programing experience in other languages, particularly generic programing in Java (Hint: you will see the huge difference between the two languages).
+
+Of course, you have interests in learning HPX. Otherwise, we recommend you read [this](https://github.com/changkun/modern-cpp-tutorial).
 
 ## How this lecture goes
 
@@ -31,6 +34,6 @@ Of course, there is no free lunch. The high abstraction without runtime performa
 
 
 ## Organization
-The content of this comes from 2 parts, each lecture is merely a text recording of the series of C++ for HPX lectures given by Hurtmut at LSU. The content of the series is excellent but the quality of the video is not that satisfying, making beginners hard to follow. Hence the present tutorial is an reorganization of the series.
+The content of this comes from 2 parts, each lecture is merely a text recording of the [series](https://www.youtube.com/watch?v=asGZTCR53KY&list=PL7vEgTL3FalY2eBxud1wsfz8OKvE9sd_z) of C++ for HPX lectures given by Professor [Hartmut Kaiser](https://www.lsu.edu/eng/cse/people/faculty/kaiser.php) at [LSU](https://www.lsu.edu/index.php). The content of the series is excellent but the quality of the video is not that satisfying. Hence the present tutorial is an reorganization of the series.
 
 Another part of this tutorial is for readers having knowledge of other programing languages. For some features of C++ or HPX, we will explain it by comparing it with other language, such as Java, C, Ocaml and Javascript, as an complement.
