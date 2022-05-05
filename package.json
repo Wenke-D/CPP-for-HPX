@@ -1,0 +1,25 @@
+{
+  "name": "cpp_for_hpx",
+  "version": "0.0.1",
+  "description": "a tutorial of C++ for HPX",
+  "main": "index.js",
+  "authors": {
+    "name": "Wenke",
+    "email": "wenke.du@universite-paris-saclay.fr"
+  },
+  "repository": "/C++_for_HPX",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  },
+  "resolutions": {
+    "watchepack": "1.7.2"
+  },
+  "dependencies": {
+    "jshint": "^2.13.4"
+  }
+}
