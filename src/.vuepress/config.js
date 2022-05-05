@@ -22,7 +22,7 @@ module.exports = {
     ['link', { rel: 'icon', href: '/images/logo.png' }]
   ],
 
-  base: "CPP-for-HPX",
+  base: "/CPP-for-HPX/",
 
   dest: "docs",
 
