@@ -50,7 +50,11 @@ module.exports = {
       {
         text: 'HPX',
         link: 'https://hpx-docs.stellar-group.org/latest/html/index.html'
-      }
+      },
+      {
+        text: 'Github',
+        link: 'https://github.com/Wenke-D/CPP-for-HPX'
+      },
     ],
     sidebar: {
       '/guide/': [
