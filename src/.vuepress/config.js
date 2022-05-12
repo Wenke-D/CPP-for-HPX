@@ -66,6 +66,7 @@ module.exports = {
             'Chapter01/',
             'Chapter02/',
             'Chapter03/',
+            'Chapter04/',
           ]
         }
       ],
