@@ -135,7 +135,7 @@ This is a little tedious. We have written that expression in the return statemen
 
 `decltype(auto)` tells the compiler _" Figure out the type for us please and declare that type as the return type, we don't care what it is."_. The `auto` here does **not** have the same semantic as the one before. This one is for type deduction, the last one is to fit syntax.
 
-We have seem several examples of template programing in this chapter. Still, there a lot of tricks on templates. In the next chapter, we gonna learn the mechanism of `std::advance` and write one by ourselves.
+We have seem several examples of template programing in this chapter. Still, there a lot of tricks on templates. In the next chapter, we gonna learn other necessary mechanisms to write a `std::advance`, and together we gonna write one by ourselves in the next 2 chapter.
 
 
 
